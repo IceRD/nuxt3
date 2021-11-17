@@ -1,0 +1,30 @@
+node_modules
+package-lock.json
+.env
+backup
+
+# Logs
+*.log
+
+# Temp directories
+.temp
+.tmp
+.cache
+
+# Generated dirs
+dist
+.nuxt
+.output
+nuxt.d.ts
+
+# VSCode
+.vscode
+
+# Intellij idea
+*.iml
+.idea
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
